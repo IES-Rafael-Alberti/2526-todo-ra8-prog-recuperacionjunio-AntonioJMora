@@ -5,8 +5,8 @@ Se evaluarán los resultados de aprendizaje trabajados durante el curso mediante
 
 ---
 
-- **Alumno**: [Nombre del alumno]      
-- **Resultados de aprendizaje a recuperar**: [RAX, RAY, RAZ, ...]
+- **Alumno**: Antonio Jesús Mora Cabeza   
+- **Resultados de aprendizaje a recuperar**: RA1, RA3, RA5, RA6
 
 ---
 
