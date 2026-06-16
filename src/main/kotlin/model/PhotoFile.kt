@@ -1,4 +1,6 @@
 package org.iesra.model
 
-class PhotoFile {
+abstract class PhotoFile {
+    abstract val originalName: String
+    abstract var orderKey: String
 }
