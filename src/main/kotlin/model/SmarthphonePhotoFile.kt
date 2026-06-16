@@ -1,5 +1,5 @@
 package org.iesra.model
 
-class SmarthphonePhotoFile(override val originalName: String, override var orderKey: String) : PhotoFile() {
+class SmartphonePhotoFile(override val originalName: String, override var orderKey: String) : PhotoFile() {
 
 }
